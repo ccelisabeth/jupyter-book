@@ -1,0 +1,1 @@
+In this analysis, I will be looking at Disney film data to see which director directed Disney's highest-grossing film. Then I will examine Disney's top 20 highest-grossing films to find the average gross of each director in the top 20. I would expect that the director of the highest-grossing film would also have the highest-grossing film average.
